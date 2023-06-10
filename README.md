@@ -26,6 +26,6 @@
 | 25 | Growth Media Group | [LinkedIn](https://www.linkedin.com/company/growthmediagroup/) | [Facebook](https://web.facebook.com/growthmediagroup.org) | [Website](https://growthmediagroup.org/) | [p-16/B, Commercial Center,
 Gulistan Colony no. 2, FSD
 Pakistan]() |
-| 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
+| 26 | MQL Development | [LinkedIn](https://www.linkedin.com/company/mql-development) | [Facebook](https://web.facebook.com/mqldeveploment) | [Website](https://mqldevelopment.com/) | [Google Maps](https://goo.gl/maps/VymxVD5aSr2J5oHL7) |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
