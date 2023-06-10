@@ -23,7 +23,9 @@
 | 22 | Blinix Solutions | [LinkedIn](https://www.linkedin.com/company/blinixsolutions) | [Facebook](https://web.facebook.com/blinixsolutions) | [Website](https://blinixsolutions.com/) | [Google Maps](https://goo.gl/maps/RYi2Ntbv2hJr2MLs5) |
 | 23 | TOPSOL | [LinkedIn](https://linkedin.com/company/topsolorg) | [Facebook](https://web.facebook.com/topsol.org) | [Website](https://topsol.org/) | [Google Maps](https://goo.gl/maps/cDfTnSTJHZB5Us5S8) |
 | 24 | Woit Solutions | [LinkedIn](https://www.linkedin.com/company/woit-solutions) | [Facebook](https://web.facebook.com/people/Woit-Solutions/100086063786937/) | [Website](https://woitsolutions.com/) | [Google Maps](https://goo.gl/maps/9hCMtdTsrUBgtbEt6) |
-| 25 | Growth Media Group | [LinkedIn](https://www.linkedin.com/company/growthmediagroup/) | [Facebook](https://web.facebook.com/growthmediagroup.org) | [Website](https://growthmediagroup.org/) | [Google Maps](https://goo.gl/maps/RuViAmGQT3d16mDX9) |
+| 25 | Growth Media Group | [LinkedIn](https://www.linkedin.com/company/growthmediagroup/) | [Facebook](https://web.facebook.com/growthmediagroup.org) | [Website](https://growthmediagroup.org/) | [p-16/B, Commercial Center,
+Gulistan Colony no. 2, FSD
+Pakistan]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
