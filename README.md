@@ -1,10 +1,5 @@
-# Company Information
-
-| Serial Number | Company Name | LinkedIn | Facebook | Website | Google Maps |
-| ------------- | ------------ | -------- | -------- | ------- | ----------- |
-| 1             | Systems Limited  | [![LinkedIn](https://example.com/linkedin-icon.png)](https://linkedin.com/company/exampleco) | [![Facebook](https://example.com/facebook-icon.png)](https://facebook.com/exampleco) | [![Website](https://example.com/website-icon.png)](https://exampleco.com) | [![Google Maps](https://example.com/maps-icon.png)](https://maps.google.com?q=123+Main+St,+City,+State,+Country) |
-| 2             | Sample Inc.  | [![LinkedIn](https://example.com/linkedin-icon.png)](https://linkedin.com/company/sampleinc) | [![Facebook](https://example.com/facebook-icon.png)](https://facebook.com/sampleinc) | [![Website](https://example.com/website-icon.png)](https://sampleinc.com) | [![Google Maps](https://example.com/maps-icon.png)](https://maps.google.com?q=456+Elm+St,+City,+State,+Country) |
-| 3             | ABC Corp.    | [![LinkedIn](https://example.com/linkedin-icon.png)](https://linkedin.com/company/abccorp) | [![Facebook](https://example.com/facebook-icon.png)](https://facebook.com/abccorp) | [![Website](https://example.com/website-icon.png)](https://abccorp.com) | [![Google Maps](https://example.com/maps-icon.png)](https://maps.google.com?q=789+Oak+St,+City,+State,+Country) |
-| 4             | XYZ Ltd.     | [![LinkedIn](https://example.com/linkedin-icon.png)](https://linkedin.com/company/xyzltd) | [![Facebook](https://example.com/facebook-icon.png)](https://facebook.com/xyzltd) | [![Website](https://example.com/website-icon.png)](https://xyzltd.com) | [![Google Maps](https://example.com/maps-icon.png)](https://maps.google.com?q=321+Pine+St,+City,+State,+Country) |
-| ...           | ...          | ...      | ...      | ...     | ...         |
-| 100           | Example Inc. | [![LinkedIn](https://example.com/linkedin-icon.png)](https://linkedin.com/company/exampleinc) | [![Facebook](https://example.com/facebook-icon.png)](https://facebook.com/exampleinc) | [![Website](https://example.com/website-icon.png)](https://exampleinc.com) | [![Google Maps](https://example.com/maps-icon.png)](https://maps.google.com?q=987+Maple+St,+City,+State,+Country) |
+| Serial No. | Company Name | LinkedIn | Facebook | Website | Google Maps | 
+|------------|--------------|----------|----------|---------|-------------|
+| 1          | Example Co.  | [LinkedIn](https://www.linkedin.com/company/exampleco) | [Facebook](https://www.facebook.com/exampleco) | [Website](https://www.exampleco.com) | [Google Maps](https://maps.google.com/maps?q=Example+Co) |
+| 2          | Another Co.  | [LinkedIn](https://www.linkedin.com/company/anotherco) | [Facebook](https://www.facebook.com/anotherco) | [Website](https://www.anotherco.com) | [Google Maps](https://maps.google.com/maps?q=Another+Co) |
+| 3          | New Co.      | [LinkedIn](https://www.linkedin.com/company/newco) | [Facebook](https://www.facebook.com/newco) | [Website](https://www.newco.com) | [Google Maps](https://maps.google.com/maps?q=New+Co) |
