@@ -5,7 +5,7 @@
 | 4          | Seerox | [LinkedIn](https://www.linkedin.com/company/seerox/) | [Facebook](https://web.facebook.com/seerox) | [Website](https://www.seerox.com/) | [Seerox](https://goo.gl/maps/nSGGWejssm21r1rj8) |
 | 5          | CodiMasters  | [N/A]() | [Facebook](https://web.facebook.com/CodiMasterss) | [Website](https://codimasters.com/) | [Google Maps](https://goo.gl/maps/2bue3DziQA97DG1C7) |
 | 6          | AIKSOL      | [LinkedIn](https://www.linkedin.com/company/aiksoltechnologies/) | [Facebook](https://web.facebook.com/aiksoltechnologies) | [Website](https://www.aiksol.com/) | [AikSol.](https://goo.gl/maps/UeeddVqNszb1Udi59) |
-| 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
+| 7          | W3 Helpers-Programming Solutions | [N/A]() | [Facebook](https://web.facebook.com/w3helpers) | [Website](https://w3helpers.com/) | [Google Maps](https://goo.gl/maps/Ut4gPJfzvk7BBFAA7) |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
