@@ -17,7 +17,7 @@
 | 16          | NY Digital     | [LinkedIn](https://www.linkedin.com/company/nydigi) | [Facebook](https://web.facebook.com/people/NY-Digital/100090643535285) | [Website](https://nydigi.co/) | [Google Maps]() |
 | 17          | Vistabit Technologies | [LinkedIn]() | [Facebook](https://web.facebook.com/vistabit) | [Website](http://www.vistabit.com/) | [Google Maps](https://goo.gl/maps/2b12Lgb7YomEqtN57) |
 | 18          | Leadium Technologies | [LinkedIn]() | [Facebook](https://web.facebook.com/profile.php?id=100092249290005) | [Website]() | [Google Maps](https://goo.gl/maps/skhb5QrWJ9nhMZKy8) |
-| 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
+| 19          | UpTree Developers | [LinkedIn](https://www.linkedin.com/company/uptreedevelopers/) | [Facebook](https://web.facebook.com/uptreedev) | [Website](https://uptreedevelopers.com/) | [Google Maps](https://goo.gl/maps/PiuZM4VvoD6Sy3TL8) |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
