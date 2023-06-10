@@ -11,7 +11,7 @@
 | 10          | SAR ZONE | [N/A]() | [Facebook](https://web.facebook.com/SARautomation) | [Website](http://www.sarzone.com/) | [Google Maps](https://goo.gl/maps/o8HztAYNRmxS1ZBf6) |
 | 11          | Speecto      | [LinkedIn](https://www.linkedin.com/company/speecto/) | [Facebook](https://web.facebook.com/speectosolutions) | [Website](https://www.speecto.com/) | [Google Maps](https://goo.gl/maps/3uStYgZdTeXome5S8) |
 | 12          | IT Empire (Pvt-Ltd) | [LinkedIn](https://www.linkedin.com/in/it-empire-b9a589190/) | [Facebook](https://web.facebook.com/ITEmpire) | [Website](https://www.itempire.net/) | [Google Maps](https://goo.gl/maps/nmCNrWg9gQJQfMLbA) |
-| 13          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
+| 13          | Utecho | [LinkedIn](https://www.linkedin.com/company/utecho/about/) | [Facebook](https://web.facebook.com/utecho.02) | [Website](https://www.utecho.com/) | [Google Maps](https://goo.gl/maps/FS8bURV5qDauJei1A) |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
