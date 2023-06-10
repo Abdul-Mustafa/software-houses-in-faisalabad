@@ -19,9 +19,9 @@
 | 18          | Leadium Technologies | [LinkedIn]() | [Facebook](https://web.facebook.com/profile.php?id=100092249290005) | [Website]() | [Google Maps](https://goo.gl/maps/skhb5QrWJ9nhMZKy8) |
 | 19 | UpTree Developers | [LinkedIn](https://www.linkedin.com/company/uptreedevelopers/) | [Facebook](https://web.facebook.com/uptreedev) | [Website](https://uptreedevelopers.com/) | [Google Maps](https://goo.gl/maps/PiuZM4VvoD6Sy3TL8) |
 | 20 | TECHNO ARCADE | [N/A]() | [Facebook](https://web.facebook.com/technoarcade1) | [Website](https://technoarcade.com/) | [Google Maps](https://goo.gl/maps/S72eaUaVZk1fV8yu6) |
-| 21 | Meta Solutions PK | [LinkedIn](https://www.linkedin.com/in/meta-solutionspk/) | [Facebook](https://web.facebook.com/metasolutionspk) | [Website](https://metasolutions.com.pk/) | [Shaheed-e-Millat market P-72 A near millat chowk, Faisalabad, Pakistan]() |
-| 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
-| 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
+| 21 | Meta Solutions PK | [LinkedIn](https://www.linkedin.com/in/meta-solutionspk/) | [Facebook](https://web.facebook.com/metasolutionspk) | [Website](https://metasolutions.com.pk/) | [Shaheed-e-Millat market P-72 A near millat chowk, Faisalabad, Pakistan](https://goo.gl/maps/cDfTnSTJHZB5Us5S8) |
+| 22 | Blinix Solutions | [LinkedIn](https://www.linkedin.com/company/blinixsolutions) | [Facebook](https://web.facebook.com/blinixsolutions) | [Website](https://blinixsolutions.com/) | [Google Maps](https://goo.gl/maps/RYi2Ntbv2hJr2MLs5) |
+| 23 | TOPSOL | [LinkedIn](https://linkedin.com/company/topsolorg) | [Facebook](https://web.facebook.com/topsol.org) | [Website](https://topsol.org/) | [Google Maps](https://goo.gl/maps/cDfTnSTJHZB5Us5S8) |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
