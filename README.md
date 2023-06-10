@@ -12,7 +12,7 @@
 | 11          | Speecto      | [LinkedIn](https://www.linkedin.com/company/speecto/) | [Facebook](https://web.facebook.com/speectosolutions) | [Website](https://www.speecto.com/) | [Google Maps](https://goo.gl/maps/3uStYgZdTeXome5S8) |
 | 12          | IT Empire (Pvt-Ltd) | [LinkedIn](https://www.linkedin.com/in/it-empire-b9a589190/) | [Facebook](https://web.facebook.com/ITEmpire) | [Website](https://www.itempire.net/) | [Google Maps](https://goo.gl/maps/nmCNrWg9gQJQfMLbA) |
 | 13          | Utecho | [LinkedIn](https://www.linkedin.com/company/utecho/about/) | [Facebook](https://web.facebook.com/utecho.02) | [Website](https://www.utecho.com/) | [Google Maps](https://goo.gl/maps/FS8bURV5qDauJei1A) |
-| 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
+| 14          | NetixSol | [LinkedIn](https://www.linkedin.com/company/netixsol-blockchain-development-company/) | [Facebook](https://web.facebook.com/netixsol) | [Website](https://www.netixsol.com/) | [Google Maps](https://goo.gl/maps/3JbZaytYLRA4twjcA) |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
