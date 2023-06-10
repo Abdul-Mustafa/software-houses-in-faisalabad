@@ -15,7 +15,7 @@
 | 14          | NetixSol | [LinkedIn](https://www.linkedin.com/company/netixsol-blockchain-development-company/) | [Facebook](https://web.facebook.com/netixsol) | [Website](https://www.netixsol.com/) | [Google Maps](https://goo.gl/maps/3JbZaytYLRA4twjcA) |
 | 15          | Fillinx Solutions | [LinkedIn](https://www.linkedin.com/company/fillinx) | [Facebook](https://web.facebook.com/fillinx) | [Website](https://fillinxsolutions.com/) | [Google Maps](https://goo.gl/maps/DQ866r74pX3CBnqc8) |
 | 16          | NY Digital     | [LinkedIn](https://www.linkedin.com/company/nydigi) | [Facebook](https://web.facebook.com/people/NY-Digital/100090643535285) | [Website](https://nydigi.co/) | [Google Maps]() |
-| 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
+| 17          | Vistabit Technologies | [LinkedIn]() | [Facebook](https://web.facebook.com/vistabit) | [Website](http://www.vistabit.com/) | [Google Maps](https://goo.gl/maps/2b12Lgb7YomEqtN57) |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
