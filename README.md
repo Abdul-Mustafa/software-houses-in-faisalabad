@@ -25,5 +25,5 @@
 | 24 | Woit Solutions | [LinkedIn](https://www.linkedin.com/company/woit-solutions) | [Facebook](https://web.facebook.com/people/Woit-Solutions/100086063786937/) | [Website](https://woitsolutions.com/) | [Google Maps](https://goo.gl/maps/9hCMtdTsrUBgtbEt6) |
 | 25 | Growth Media Group | [LinkedIn](https://www.linkedin.com/company/growthmediagroup/) | [Facebook](https://web.facebook.com/growthmediagroup.org) | [Website](https://growthmediagroup.org/) | [p-16/B, Commercial Center, Gulistan Colony no. 2, FSD]()|
 | 26 | MQL Development | [LinkedIn](https://www.linkedin.com/company/mql-development) | [Facebook](https://web.facebook.com/mqldeveploment) | [Website](https://mqldevelopment.com/) | [Google Maps](https://goo.gl/maps/VymxVD5aSr2J5oHL7) |
-| 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
+| 27 | VectrosBit | [LinkedIn]() | [Facebook](https://web.facebook.com/vectorsbit) | [Website]() | [Office # 64, Kohinoor One Plaza, Jarawala Rd]() |
 | 3          | New Co.      | [LinkedIn]() | [Facebook]() | [Website]() | [Google Maps]() |
